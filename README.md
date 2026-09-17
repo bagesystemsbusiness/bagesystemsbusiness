@@ -71,9 +71,9 @@
 ### 🐍 Gráfico de Contribuições Animado
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagesystems/bagesystems/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagesystems/bagesystems/output/github-contribution-grid-snake.svg">
-    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/bagesystems/bagesystems/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagesystemsbusiness/bagesystemsbusiness/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagesystemsbusiness/bagesystemsbusiness/output/github-contribution-grid-snake.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/bagesystemsbusiness/bagesystemsbusiness/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -84,8 +84,8 @@
 
 <br>
 
-1. **Troque `bagesystems`** pelo seu usuário/organização real do GitHub — tanto no README (`src` das imagens acima) quanto no arquivo `.github/workflows/snake.yml` (`github_user_name`).
-2. Crie um repositório especial com o **mesmo nome do seu usuário/organização** (ex: `github.com/bagesystems/bagesystems`). É esse repositório que o GitHub usa para exibir o README na página de perfil.
+1. ✅ Já ajustado para o usuário `bagesystemsbusiness` no README e no `snake.yml`.
+2. Crie (ou confirme que já existe) um repositório especial com o **mesmo nome do usuário**: `github.com/bagesystemsbusiness/bagesystemsbusiness`. É esse repositório que o GitHub usa para exibir o README na página de perfil.
 3. Coloque o arquivo `snake.yml` em `.github/workflows/` desse repositório.
 4. Coloque este `README.md` na raiz do mesmo repositório.
 5. Rode a Action manualmente pela aba **Actions → Generate Snake Animation → Run workflow**, ou aguarde a execução automática (todo dia à meia-noite, UTC).
