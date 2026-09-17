@@ -7,6 +7,28 @@
 
 **Construímos software sob medida para negócios que precisam ir rápido.**
 
+###
+
+<div align="center">
+  <a href="https://bagesystems.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Site+Oficial&logo=googlechrome&label=&color=0B1E3A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+</a>
+  <a href="https://www.instagram.com/umpierre_1?igsh=MW0zY3JxOTg0bnk4cQ%3D%3D&utm_source=qr" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</a>
+  <a href="https://www.linkedin.com/in/eduardo-munhoz-umpierre-777851286/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+  <a href="mailto:eduardomunhozumpierres2@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+  <a href="https://wa.me/555399741818?text=Vi%20seu%20perfil%20no%20GitHub" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp logo" />
+</a>
+</div>
+
+###
+
 [![Website](https://img.shields.io/badge/site-bagesystems.com-2563eb)](https://bagesystemsbusiness.github.io/bagesystems/)
 [![Contato](https://img.shields.io/badge/contato-email-1a2744)](mailto:contato@suaempresa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0a66c2)](https://linkedin.com/company/suaempresa)
