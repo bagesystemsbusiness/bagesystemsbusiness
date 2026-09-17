@@ -68,38 +68,33 @@
 
 </div>
 
-name: Generate Snake Animation
+### 🐍 Gráfico de Contribuições Animado
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagesystems/bagesystems/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bagesystems/bagesystems/output/github-contribution-grid-snake.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/bagesystems/bagesystems/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
-  workflow_dispatch: # permite rodar manualmente pela aba Actions
-  push:
-    branches:
-      - main
+###
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake SVG
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: bagesystems
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<details>
+<summary>⚙️ Como ativar a animação da cobrinha (clique para expandir)</summary>
 
-      - name: Push the generated files to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<br>
+
+1. **Troque `bagesystems`** pelo seu usuário/organização real do GitHub — tanto no README (`src` das imagens acima) quanto no arquivo `.github/workflows/snake.yml` (`github_user_name`).
+2. Crie um repositório especial com o **mesmo nome do seu usuário/organização** (ex: `github.com/bagesystems/bagesystems`). É esse repositório que o GitHub usa para exibir o README na página de perfil.
+3. Coloque o arquivo `snake.yml` em `.github/workflows/` desse repositório.
+4. Coloque este `README.md` na raiz do mesmo repositório.
+5. Rode a Action manualmente pela aba **Actions → Generate Snake Animation → Run workflow**, ou aguarde a execução automática (todo dia à meia-noite, UTC).
+
+Depois disso, a cobrinha passa a "comer" os quadradinhos verdes de commits automaticamente, todo dia.
+
+</details>
+
+###
 
 ### 📊 Progresso dos Projetos
 ![Progresso](https://img.shields.io/badge/APP__BAGE__SYSTEMS-em%20andamento-D96A2A?style=for-the-badge)
