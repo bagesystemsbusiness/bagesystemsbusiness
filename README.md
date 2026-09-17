@@ -1,3 +1,60 @@
+<div align="center">
+
+<!-- Substitua pelo logo da empresa -->
+<img src="https://via.placeholder.com/120x120?text=LOGO" width="100" alt="Logo da empresa" />
+
+# [Nome da Empresa]
+
+**Construímos software sob medida para negócios que precisam ir rápido.**
+
+[![Website](https://img.shields.io/badge/site-suaempresa.com-2563eb)](https://suaempresa.com)
+[![Contato](https://img.shields.io/badge/contato-email-1a2744)](mailto:contato@suaempresa.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0a66c2)](https://linkedin.com/company/suaempresa)
+
+</div>
+
+---
+
+## Quem somos
+
+Somos uma software house focada em [descreva em 1 frase: ex. "transformar ideias em produtos digitais rápidos e escaláveis"]. Atendemos empresas de [segmentos, ou "qualquer segmento" se for o caso], entregando desde MVPs até sistemas em produção.
+
+## O que fazemos
+
+- 🌐 Desenvolvimento web (front-end e back-end)
+- 📱 Aplicativos mobile
+- 🔗 Integrações e APIs
+- ☁️ Infraestrutura e deploy em nuvem
+- 🛠️ Manutenção e evolução de sistemas legados
+
+## Stack que dominamos
+
+`TypeScript` `React` `Node.js` `Python` `PostgreSQL` `Docker` `AWS`
+
+*(ajuste para as tecnologias reais da equipe)*
+
+## Projetos em destaque
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🚀 [nome-do-projeto-vitrine] | Breve descrição do que o projeto demonstra | [repositório](#) |
+| 📦 [nome-do-boilerplate] | Starter kit usado como base dos nossos projetos | [repositório](#) |
+
+## Como trabalhamos
+
+1. **Descoberta** — entendemos o problema antes de escrever código
+2. **Protótipo** — validamos rápido com o cliente
+3. **Entrega contínua** — deploys frequentes, sem surpresas no final
+
+## Vamos conversar?
+
+📩 **contato@suaempresa.com**
+🌐 **suaempresa.com**
+
+</br>
+
+<sub>Repositório especial que serve como página inicial da organização no GitHub.</sub>
+
 # 🏹 BAGE SYSTEMS
 
 <div align="center">
