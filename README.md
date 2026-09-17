@@ -68,7 +68,7 @@
 
 </div>
 
-### 🐍 Gráfico de Contribuições Animado
+###  Gráfico de Contribuições
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bagesystemsbusiness/bagesystemsbusiness/output/github-contribution-grid-snake-dark.svg">
