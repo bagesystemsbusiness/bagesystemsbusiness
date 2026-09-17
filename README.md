@@ -3,7 +3,7 @@
 <!-- Substitua pelo logo da empresa -->
 <img src="https://via.placeholder.com/120x120?text=LOGO" width="100" alt="Logo da empresa" />
 
-# [Nome da Empresa]
+# BAGÉ SYSTEMS
 
 **Construímos software sob medida para negócios que precisam ir rápido.**
 
