@@ -80,17 +80,11 @@
 ###
 
 <details>
-<summary>⚙️ Como ativar a animação da cobrinha (clique para expandir)</summary>
+<summary>⚙️ (clique para expandir)</summary>
 
 <br>
 
-1. ✅ Já ajustado para o usuário `bagesystemsbusiness` no README e no `snake.yml`.
-2. Crie (ou confirme que já existe) um repositório especial com o **mesmo nome do usuário**: `github.com/bagesystemsbusiness/bagesystemsbusiness`. É esse repositório que o GitHub usa para exibir o README na página de perfil.
-3. Coloque o arquivo `snake.yml` em `.github/workflows/` desse repositório.
-4. Coloque este `README.md` na raiz do mesmo repositório.
-5. Rode a Action manualmente pela aba **Actions → Generate Snake Animation → Run workflow**, ou aguarde a execução automática (todo dia à meia-noite, UTC).
-
-Depois disso, a cobrinha passa a "comer" os quadradinhos verdes de commits automaticamente, todo dia.
+12345678
 
 </details>
 
