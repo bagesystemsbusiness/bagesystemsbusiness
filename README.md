@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://bagesystems.com" target="_blank">
+  <a href="https://bagesystemsbusiness.github.io/bagesystems/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Site+Oficial&logo=googlechrome&label=&color=0B1E3A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
 </a>
   <a href="https://www.instagram.com/umpierre_1?igsh=MW0zY3JxOTg0bnk4cQ%3D%3D&utm_source=qr" target="_blank">
@@ -29,9 +29,6 @@
 
 ###
 
-[![Website](https://img.shields.io/badge/site-bagesystems.com-2563eb)](https://bagesystemsbusiness.github.io/bagesystems/)
-[![Contato](https://img.shields.io/badge/contato-email-1a2744)](mailto:contato@suaempresa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0a66c2)](https://linkedin.com/company/suaempresa)
 
 </div>
 
