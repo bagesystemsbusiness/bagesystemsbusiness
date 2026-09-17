@@ -68,6 +68,39 @@
 
 </div>
 
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
+  workflow_dispatch: # permite rodar manualmente pela aba Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake SVG
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: bagesystems
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the generated files to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 ### 📊 Progresso dos Projetos
 ![Progresso](https://img.shields.io/badge/APP__BAGE__SYSTEMS-em%20andamento-D96A2A?style=for-the-badge)
 ![Progresso](https://img.shields.io/badge/ATENDENTE%20VIRTUAL-em%20andamento-D96A2A?style=for-the-badge)
